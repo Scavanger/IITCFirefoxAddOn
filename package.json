@@ -1,0 +1,9 @@
+{
+  "name": "iitc",
+  "fullName": "IITC - Ingress Intel Total Conversion",
+  "id": "jid1-qoTyrUDwsaAvEQ",
+  "description": "IITC as a Firefox mobile AddOn",
+  "author": "Scavanger",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
